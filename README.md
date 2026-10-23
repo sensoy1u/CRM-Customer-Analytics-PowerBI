@@ -16,7 +16,7 @@ The object is to identify customer groups that may require additional attention 
 | KPI | Result |
 |-----|-----|
 | Total Customers | 16 |
-| Total Revenue | 9,916 € |
+| Total Revenue | 9916 € |
 | Average Revenue per Customer | 619,69 € |
 | At-Risk Customers | 6 |
 | At Risk Customer Rate | 37.5 % |
